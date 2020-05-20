@@ -4,7 +4,7 @@
   "description": "使用 ts + jest, 用于测试写的 ts 代码有没有问题",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
