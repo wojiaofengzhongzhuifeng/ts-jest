@@ -14,5 +14,8 @@
     "jest": "^26.0.1",
     "ts-jest": "^26.0.0",
     "typescript": "^3.9.3"
+  },
+  "dependencies": {
+    "ts-node": "^9.1.1"
   }
 }
