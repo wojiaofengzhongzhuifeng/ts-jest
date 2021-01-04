@@ -1,4 +1,4 @@
-import EventBus from '../index';
+import EventBus from '../eventBus';
 test('EventBus 是一个类,可以构造对象', () => {
   let eventBus = new EventBus();
   expect(typeof eventBus).toBe('object');
